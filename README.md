@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nguyenngoctrucquynh2005@gmail.com**
 
-- 📄 Know about my experiences [https://wda2025.vercel.app/](https://wda2025.vercel.app/)
+- 📄 Know about my experiences [https://trucquynh-portfolio.netlify.app/] (https://trucquynh-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
